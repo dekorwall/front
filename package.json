@@ -17,9 +17,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "craco-scripts start",
-    "build": "craco-scripts build",
-    "test": "craco-scripts test",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
